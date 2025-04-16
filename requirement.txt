@@ -1,0 +1,7 @@
+streamlit
+hashlib
+json
+os
+time
+cryptography.fernet
+Fernet
